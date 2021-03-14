@@ -1,10 +1,10 @@
 # spotify-clone
 
-##projeto spotify-clone com bootstrap
+##Projeto spotify-clone com bootstrap
 
-##aprendiagem
+##Aprendiagem
 
-barra de navegação com Transparência,sliders carrousel,e responsividade,
+Barra de navegação com Transparência,sliders carrousel,e responsividade,
 
 
 ![spotyfi_clone](img/app.jpeg)
